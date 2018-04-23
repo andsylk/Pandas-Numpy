@@ -1,5 +1,7 @@
 ## **Heroes of Pymoli Data Analysis**
 
+### Using Python Pandas, I analyzed the game Heroes of Pymoli and provide Purchasing Analysis, Gender and Age Demographics, Top Spenders, Most Profitable and Most Popular items purchased.
+
 #### OBSERVED TRENDS
    ##### 1) Over 80% of all players are males.  Males made the majority of purchases and contributed to over 80% of the total revenue.
    ##### 2) Regardless of gender, 20-24 year olds have made the most number of purchases and spent the most on this game. 
